@@ -1,10 +1,10 @@
 # obhoDDiscOrd
 
-Сборка obhoDDiscOrd заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей.
+Актуальная версия с поддержкой работы Discord в текущих условиях. Быстрее, стабильнее, надежнее
 
 Сборка obhoDDiscOrd заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/Quartzarview27/obhoDDiscOrd/releases/latest
-Код: https://github.com/Quartzarview27/obhoDDiscOrd
+Релиз: https://github.com/quartzarview27/obhoDDiscOrd/releases/latest
+Код: https://github.com/quartzarview27/obhoDDiscOrd
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/Quartzarview27/obhoDDiscOrd
+Страница: https://github.com/quartzarview27/obhoDDiscOrd
